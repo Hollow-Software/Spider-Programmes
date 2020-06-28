@@ -1,19 +1,15 @@
 [submodule "Tool Set for College Language Test"]
 	path = Tool Set for College Language Test
 	url = https://github.com/HollowMan6/Tool-Set-for-College-Language-Test.git
-	ignore = all
 
 [submodule "🕷 Tool Set for Crawling STU-INFO System"]
 	path = 🕷 Tool Set for Crawling STU-INFO System
 	url = https://github.com/HollowMan6/Tool-Set-for-Crawling-STU-INFO-System.git
-	ignore = all
 
 [submodule "AutoVoting for Yunmai"]
 	path = AutoVoting for Yunmai
 	url = https://github.com/HollowMan6/AutoVoting-for-Yunmai.git
-	ignore = all
 
 [submodule "🤖 Smart Chatting Robot"]
 	path = 🤖 Smart Chatting Robot
 	url = https://github.com/HollowMan6/Smart-Chatting-Robot.git
-	ignore = all
