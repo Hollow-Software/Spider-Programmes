@@ -14,6 +14,12 @@
 
 Here is a collection of my web crawler repositories. 
 
+**提示**: 克隆后请使用以下命令获取子仓库
+
+**Hint**: Please use the following command to get the sub-repositories after cloning.
+
+`git submodule update --init`
+
 * [Tool Set for College Language Test](https://github.com/HollowMan6/Tool-Set-for-College-Language-Test)
 * [🕷 Tool Set for Crawling STU-INFO System](https://github.com/HollowMan6/Tool-Set-for-Crawling-STU-INFO-System)
 * [AutoVoting for Yunmai](https://github.com/HollowMan6/AutoVoting-for-Yunmai)
