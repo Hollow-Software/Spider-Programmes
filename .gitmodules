@@ -1,0 +1,35 @@
+[submodule "Tool Set for College Language Test"]
+	path = Tool Set for College Language Test
+	url = https://github.com/HollowMan6/Tool-Set-for-College-Language-Test.git
+
+[submodule "🕷 Tool Set for Crawling STU-INFO System"]
+	path = 🕷 Tool Set for Crawling STU-INFO System
+	url = https://github.com/HollowMan6/Tool-Set-for-Crawling-STU-INFO-System.git
+
+[submodule "AutoVoting for Yunmai"]
+	path = AutoVoting for Yunmai
+	url = https://github.com/HollowMan6/AutoVoting-for-Yunmai.git
+
+[submodule "Auto WES iGPA Calculator"]
+	path = Auto WES iGPA Calculator
+	url = https://github.com/HollowMan6/Auto-WES-iGPA-Calculator.git
+
+[submodule "🤖 Smart Chatting Robot"]
+	path = 🤖 Smart Chatting Robot
+	url = https://github.com/HollowMan6/Smart-Chatting-Robot.git
+
+[submodule "📄 Tool for Autofill Questionaire"]
+	path = 📄 Tool for Autofill Questionaire
+	url = https://github.com/HollowMan6/Tool-for-Autofill-Questionaire.git
+
+[submodule "🔑 Srun LZU Network Auth"]
+	path = 🔑 Srun LZU Network Auth
+	url = https://github.com/HollowMan6/Srun-LZU-Network-Auth.git
+
+[submodule "🙋 LZU Auto Course Evaluation Feedback"]
+	path = 🙋 LZU Auto Course Evaluation Feedback
+	url = https://github.com/HollowMan6/LZU-Auto-Course-Evaluation-Feedback.git
+
+[submodule "Github Contribution"]
+	path = Github Contribution
+	url = https://github.com/HollowMan6/Github-Contribution.git
