@@ -13,3 +13,7 @@
 [submodule "🤖 Smart Chatting Robot"]
 	path = 🤖 Smart Chatting Robot
 	url = https://github.com/HollowMan6/Smart-Chatting-Robot.git
+
+[submodule "📄 Tool for Autofill Questionaire"]
+	path = 📄 Tool for Autofill Questionaire
+	url = https://github.com/HollowMan6/Tool-for-Autofill-Questionaire.git
