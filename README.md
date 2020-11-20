@@ -21,6 +21,7 @@ Here is a collection of my web crawler repositories.
 `git submodule update --init`
 
 * [Srun LZU Network Auth](https://github.com/HollowMan6/Srun-LZU-Network-Auth)
+* [🙋 LZU Auto Course Evaluation Feedback](https://github.com/HollowMan6/LZU-Auto-Course-Evaluation-Feedback)
 * [Tool Set for College Language Test](https://github.com/HollowMan6/Tool-Set-for-College-Language-Test)
 * [🕷 Tool Set for Crawling STU-INFO System](https://github.com/HollowMan6/Tool-Set-for-Crawling-STU-INFO-System)
 * [📄 Tool for Autofill Questionaire](https://github.com/HollowMan6/Tool-for-Autofill-Questionaire)

@@ -21,3 +21,7 @@
 [submodule "Srun LZU Network Auth"]
 	path = Srun LZU Network Auth
 	url = https://github.com/HollowMan6/Srun-LZU-Network-Auth.git
+
+[submodule "🙋 LZU Auto Course Evaluation Feedback"]
+	path = 🙋 LZU Auto Course Evaluation Feedback
+	url = https://github.com/HollowMan6/LZU-Auto-Course-Evaluation-Feedback.git
