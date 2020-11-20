@@ -18,8 +18,8 @@
 	path = 📄 Tool for Autofill Questionaire
 	url = https://github.com/HollowMan6/Tool-for-Autofill-Questionaire.git
 
-[submodule "Srun LZU Network Auth"]
-	path = Srun LZU Network Auth
+[submodule "🔑 Srun LZU Network Auth"]
+	path = 🔑 Srun LZU Network Auth
 	url = https://github.com/HollowMan6/Srun-LZU-Network-Auth.git
 
 [submodule "🙋 LZU Auto Course Evaluation Feedback"]
