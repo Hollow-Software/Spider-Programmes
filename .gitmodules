@@ -25,3 +25,7 @@
 [submodule "🙋 LZU Auto Course Evaluation Feedback"]
 	path = 🙋 LZU Auto Course Evaluation Feedback
 	url = https://github.com/HollowMan6/LZU-Auto-Course-Evaluation-Feedback.git
+
+[submodule "Github Contribution"]
+	path = Github Contribution
+	url = https://github.com/HollowMan6/Github-Contribution.git
