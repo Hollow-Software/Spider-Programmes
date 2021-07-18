@@ -10,6 +10,10 @@
 	path = AutoVoting for Yunmai
 	url = https://github.com/HollowMan6/AutoVoting-for-Yunmai.git
 
+[submodule "Auto WES iGPA Calculator"]
+	path = Auto WES iGPA Calculator
+	url = https://github.com/HollowMan6/Auto-WES-iGPA-Calculator.git
+
 [submodule "🤖 Smart Chatting Robot"]
 	path = 🤖 Smart Chatting Robot
 	url = https://github.com/HollowMan6/Smart-Chatting-Robot.git
